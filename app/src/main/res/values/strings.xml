@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoParking</string>
+    <string name="speed_sample">15 km/h</string>
+    <string name="time_sample">11:02</string>
+    <string name="active_auto_parking">Kích hoạt tự động đỗ xe?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="notice">Đặt chân lên phanh.\nChú ý quan sát xung quanh!</string>
+</resources>
